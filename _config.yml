@@ -1,0 +1,14 @@
+layout_spectrum: 0.45680309063754976
+typography_spectrum: 0.3131937140133232
+color:
+  brandStrength: 0.8808991175610572
+  lightness: 0.5309227523393929
+  saturation: 0.627297718077898
+  rhythmicContrast: 0.16346059693023562
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Dev Account
